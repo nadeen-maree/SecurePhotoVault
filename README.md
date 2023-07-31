@@ -1,6 +1,8 @@
 # Secure Photo Vault Android App
 
-![App Logo](app_logo.png)
+<p align="center">
+ <img width="200" alt="Icon-60@3x" src="https://github.com/nadeen-maree/SecurePhotoVault/blob/master/Screenshots/logo.png">
+</p>
 
 ## Table of Contents
 
@@ -37,9 +39,7 @@ The Secure Photo Vault Android App is a privacy-focused application that allows 
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+ <img width="150" alt="Picture1" src="https://github.com/nadeen-maree/SecurePhotoVault/blob/master/Screenshots/Picture1.png"> <img width="150" alt="Picture2" src="https://github.com/nadeen-maree/SecurePhotoVault/blob/master/Screenshots/Picture2.png"> <img width="150" alt="Picture3" src="https://github.com/nadeen-maree/SecurePhotoVault/blob/master/Screenshots/Picture3.png"> <img width="150" alt="Picture4" src="https://github.com/nadeen-maree/SecurePhotoVault/blob/master/Screenshots/Picture4.png"> <img width="150" alt="Picture5" src="https://github.com/nadeen-maree/SecurePhotoVault/blob/master/Screenshots/Picture5.png"> <img width="150" alt="Picture6" src="https://github.com/nadeen-maree/SecurePhotoVault/blob/master/Screenshots/Picture6.png">
 
 ## Installation
 
